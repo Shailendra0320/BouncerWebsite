@@ -1,10 +1,10 @@
-package com.bookbouncer.Book.Bouncer.near.you;
+package com.project.Bodyguard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BookBouncerNearYouApplicationTests {
+class BodyguardApplicationTests {
 
 	@Test
 	void contextLoads() {
